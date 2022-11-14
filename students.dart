@@ -1,1 +1,5 @@
-class Students {}
+class Students {
+  String? name;
+  int? age;
+  String? gender;
+}
